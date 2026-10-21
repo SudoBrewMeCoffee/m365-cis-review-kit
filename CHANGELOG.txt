@@ -1,0 +1,4 @@
+1.0  2026-10-21  First release. 160 CIS v7.0.0 controls; 152 scored automatically, 8 portal-only.
+                 Validated against a real client tenant's evidence (22 Sep 2026): 128/160 statuses match the
+                 hand review; the remaining differences are portal settings the old export did not contain
+                 (now collected) and licensing N/A decisions (now consistent with the stated methodology).

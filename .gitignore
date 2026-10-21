@@ -1,0 +1,12 @@
+Evidence/
+Output/
+**/Evidence/
+**/Output/
+*-M365-CIS-evidence-*.json
+*-assessment-results.json
+node_modules/
+__pycache__/
+.DS_Store
+out/
+dist/
+cis7.json
